@@ -1,0 +1,8 @@
+# requirements.txt
+requests
+beautifulsoup4
+pandas
+gspread
+gspread-dataframe
+google-auth
+google-auth-oauthlib
